@@ -1,9 +1,16 @@
 .oddNumbers {
     background-color: #ffc0cb;
     font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.oddNumbers.coolClass{
     font-size: 24px;
 }
 #Num2 {
     color: #0000ff;
     font-size: 36px;
+}
+#Num4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
 }
