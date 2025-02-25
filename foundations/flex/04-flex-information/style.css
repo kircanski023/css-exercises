@@ -7,6 +7,28 @@ img {
   height: 100px;
 }
 
+.title-container,
+.content-container {
+  display: flex;
+  justify-content: center;
+}
+
+.title-container {
+  margin-bottom: 32px;
+}
+
+.content-container {
+  gap: 52px;
+}
+
+.one,
+.two,
+.three,
+.four {
+  width: 200px;
+  text-align: center;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
